@@ -1,2 +1,3 @@
 # NetflixClone
-Project pf netflix clone
+Project of netflix clone
+Author - Akshada Jadhav
