@@ -1,3 +1,3 @@
 # NetflixClone
 Project of netflix clone<br>
-Author - Akshada Jadhav
+Author - Akshada Jadhav(Software dev)
